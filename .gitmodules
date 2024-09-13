@@ -1,0 +1,9 @@
+[submodule "taskflow"]
+	path = taskflow
+	url = https://github.com/taskflow/taskflow.git
+[submodule "c3ms"]
+	path = c3ms
+	url = https://github.com/cricamfe/c3ms
+[submodule "pcm"]
+	path = pcm
+	url = https://github.com/intel/pcm
